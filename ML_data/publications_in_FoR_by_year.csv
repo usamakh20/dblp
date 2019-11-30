@@ -1,0 +1,659 @@
+id,name,year,count
+8,"Information and Computing Sciences",1980,85
+8,"Information and Computing Sciences",1981,140
+8,"Information and Computing Sciences",1983,121
+8,"Information and Computing Sciences",1984,130
+8,"Information and Computing Sciences",1985,166
+8,"Information and Computing Sciences",1986,198
+8,"Information and Computing Sciences",1987,191
+8,"Information and Computing Sciences",1988,202
+8,"Information and Computing Sciences",1989,214
+8,"Information and Computing Sciences",1990,258
+8,"Information and Computing Sciences",1991,264
+8,"Information and Computing Sciences",1992,297
+8,"Information and Computing Sciences",1993,334
+8,"Information and Computing Sciences",1994,345
+8,"Information and Computing Sciences",1995,518
+8,"Information and Computing Sciences",1996,445
+8,"Information and Computing Sciences",1997,554
+8,"Information and Computing Sciences",1998,964
+8,"Information and Computing Sciences",1999,1153
+8,"Information and Computing Sciences",2000,1400
+8,"Information and Computing Sciences",2001,1239
+8,"Information and Computing Sciences",2002,1608
+8,"Information and Computing Sciences",2003,2010
+8,"Information and Computing Sciences",2004,2252
+8,"Information and Computing Sciences",2005,2994
+8,"Information and Computing Sciences",2006,2961
+8,"Information and Computing Sciences",2007,3992
+8,"Information and Computing Sciences",2008,3325
+8,"Information and Computing Sciences",2009,4037
+8,"Information and Computing Sciences",2010,3464
+8,"Information and Computing Sciences",2011,3507
+8,"Information and Computing Sciences",2012,3383
+8,"Information and Computing Sciences",2013,3496
+8,"Information and Computing Sciences",2014,3692
+8,"Information and Computing Sciences",2015,3846
+8,"Information and Computing Sciences",2016,3900
+8,"Information and Computing Sciences",2017,3953
+8,"Information and Computing Sciences",2018,3816
+8,"Information and Computing Sciences",2019,2449
+801,"Artificial Intelligence and Image Processing",1970,156
+801,"Artificial Intelligence and Image Processing",1971,260
+801,"Artificial Intelligence and Image Processing",1972,364
+801,"Artificial Intelligence and Image Processing",1973,476
+801,"Artificial Intelligence and Image Processing",1974,416
+801,"Artificial Intelligence and Image Processing",1975,510
+801,"Artificial Intelligence and Image Processing",1976,495
+801,"Artificial Intelligence and Image Processing",1977,707
+801,"Artificial Intelligence and Image Processing",1978,640
+801,"Artificial Intelligence and Image Processing",1979,594
+801,"Artificial Intelligence and Image Processing",1980,760
+801,"Artificial Intelligence and Image Processing",1981,712
+801,"Artificial Intelligence and Image Processing",1982,874
+801,"Artificial Intelligence and Image Processing",1983,1091
+801,"Artificial Intelligence and Image Processing",1984,994
+801,"Artificial Intelligence and Image Processing",1985,1248
+801,"Artificial Intelligence and Image Processing",1986,1642
+801,"Artificial Intelligence and Image Processing",1987,2005
+801,"Artificial Intelligence and Image Processing",1988,3198
+801,"Artificial Intelligence and Image Processing",1989,2955
+801,"Artificial Intelligence and Image Processing",1990,3999
+801,"Artificial Intelligence and Image Processing",1991,3581
+801,"Artificial Intelligence and Image Processing",1992,4310
+801,"Artificial Intelligence and Image Processing",1993,5082
+801,"Artificial Intelligence and Image Processing",1994,6014
+801,"Artificial Intelligence and Image Processing",1995,6286
+801,"Artificial Intelligence and Image Processing",1996,8270
+801,"Artificial Intelligence and Image Processing",1997,8068
+801,"Artificial Intelligence and Image Processing",1998,9430
+801,"Artificial Intelligence and Image Processing",1999,9053
+801,"Artificial Intelligence and Image Processing",2000,10301
+801,"Artificial Intelligence and Image Processing",2001,9114
+801,"Artificial Intelligence and Image Processing",2002,12808
+801,"Artificial Intelligence and Image Processing",2003,11551
+801,"Artificial Intelligence and Image Processing",2004,17095
+801,"Artificial Intelligence and Image Processing",2005,19216
+801,"Artificial Intelligence and Image Processing",2006,21479
+801,"Artificial Intelligence and Image Processing",2007,21702
+801,"Artificial Intelligence and Image Processing",2008,22442
+801,"Artificial Intelligence and Image Processing",2009,22417
+801,"Artificial Intelligence and Image Processing",2010,25053
+801,"Artificial Intelligence and Image Processing",2011,22960
+801,"Artificial Intelligence and Image Processing",2012,25400
+801,"Artificial Intelligence and Image Processing",2013,24648
+801,"Artificial Intelligence and Image Processing",2014,25843
+801,"Artificial Intelligence and Image Processing",2015,26562
+801,"Artificial Intelligence and Image Processing",2016,29345
+801,"Artificial Intelligence and Image Processing",2017,28626
+801,"Artificial Intelligence and Image Processing",2018,32172
+801,"Artificial Intelligence and Image Processing",2019,15556
+801,"Artificial Intelligence and Image Processing",2020,27
+802,"Computation Theory and Mathematics",1966,137
+802,"Computation Theory and Mathematics",1967,149
+802,"Computation Theory and Mathematics",1968,171
+802,"Computation Theory and Mathematics",1969,144
+802,"Computation Theory and Mathematics",1970,147
+802,"Computation Theory and Mathematics",1971,248
+802,"Computation Theory and Mathematics",1972,292
+802,"Computation Theory and Mathematics",1973,379
+802,"Computation Theory and Mathematics",1974,449
+802,"Computation Theory and Mathematics",1975,333
+802,"Computation Theory and Mathematics",1976,455
+802,"Computation Theory and Mathematics",1977,535
+802,"Computation Theory and Mathematics",1978,485
+802,"Computation Theory and Mathematics",1979,544
+802,"Computation Theory and Mathematics",1980,574
+802,"Computation Theory and Mathematics",1981,649
+802,"Computation Theory and Mathematics",1982,540
+802,"Computation Theory and Mathematics",1983,642
+802,"Computation Theory and Mathematics",1984,720
+802,"Computation Theory and Mathematics",1985,712
+802,"Computation Theory and Mathematics",1986,900
+802,"Computation Theory and Mathematics",1987,931
+802,"Computation Theory and Mathematics",1988,1061
+802,"Computation Theory and Mathematics",1989,1228
+802,"Computation Theory and Mathematics",1990,1434
+802,"Computation Theory and Mathematics",1991,1794
+802,"Computation Theory and Mathematics",1992,1976
+802,"Computation Theory and Mathematics",1993,2128
+802,"Computation Theory and Mathematics",1994,2285
+802,"Computation Theory and Mathematics",1995,2322
+802,"Computation Theory and Mathematics",1996,2622
+802,"Computation Theory and Mathematics",1997,2744
+802,"Computation Theory and Mathematics",1998,3045
+802,"Computation Theory and Mathematics",1999,2956
+802,"Computation Theory and Mathematics",2000,3353
+802,"Computation Theory and Mathematics",2001,3622
+802,"Computation Theory and Mathematics",2002,4284
+802,"Computation Theory and Mathematics",2003,4558
+802,"Computation Theory and Mathematics",2004,5812
+802,"Computation Theory and Mathematics",2005,5924
+802,"Computation Theory and Mathematics",2006,6762
+802,"Computation Theory and Mathematics",2007,6864
+802,"Computation Theory and Mathematics",2008,6927
+802,"Computation Theory and Mathematics",2009,6719
+802,"Computation Theory and Mathematics",2010,6432
+802,"Computation Theory and Mathematics",2011,6407
+802,"Computation Theory and Mathematics",2012,6164
+802,"Computation Theory and Mathematics",2013,6790
+802,"Computation Theory and Mathematics",2014,6298
+802,"Computation Theory and Mathematics",2015,6548
+802,"Computation Theory and Mathematics",2016,6694
+802,"Computation Theory and Mathematics",2017,6855
+802,"Computation Theory and Mathematics",2018,7159
+802,"Computation Theory and Mathematics",2019,4746
+803,"Computer Software",1969,44
+803,"Computer Software",1971,47
+803,"Computer Software",1972,68
+803,"Computer Software",1973,141
+803,"Computer Software",1974,144
+803,"Computer Software",1975,155
+803,"Computer Software",1976,261
+803,"Computer Software",1977,153
+803,"Computer Software",1978,358
+803,"Computer Software",1979,394
+803,"Computer Software",1980,252
+803,"Computer Software",1981,344
+803,"Computer Software",1982,220
+803,"Computer Software",1983,327
+803,"Computer Software",1984,336
+803,"Computer Software",1985,436
+803,"Computer Software",1986,455
+803,"Computer Software",1987,538
+803,"Computer Software",1988,761
+803,"Computer Software",1989,981
+803,"Computer Software",1990,874
+803,"Computer Software",1991,1094
+803,"Computer Software",1992,1111
+803,"Computer Software",1993,1413
+803,"Computer Software",1994,1414
+803,"Computer Software",1995,1493
+803,"Computer Software",1996,1689
+803,"Computer Software",1997,2116
+803,"Computer Software",1998,2217
+803,"Computer Software",1999,2355
+803,"Computer Software",2000,2974
+803,"Computer Software",2001,2970
+803,"Computer Software",2002,3286
+803,"Computer Software",2003,4003
+803,"Computer Software",2004,4641
+803,"Computer Software",2005,5326
+803,"Computer Software",2006,5529
+803,"Computer Software",2007,6666
+803,"Computer Software",2008,7111
+803,"Computer Software",2009,6594
+803,"Computer Software",2010,6544
+803,"Computer Software",2011,7205
+803,"Computer Software",2012,7084
+803,"Computer Software",2013,8106
+803,"Computer Software",2014,7831
+803,"Computer Software",2015,7705
+803,"Computer Software",2016,7933
+803,"Computer Software",2017,7766
+803,"Computer Software",2018,8032
+803,"Computer Software",2019,4472
+804,"Data Format",1970,39
+804,"Data Format",1971,38
+804,"Data Format",1972,43
+804,"Data Format",1974,47
+804,"Data Format",1975,120
+804,"Data Format",1976,60
+804,"Data Format",1977,130
+804,"Data Format",1978,167
+804,"Data Format",1979,141
+804,"Data Format",1980,189
+804,"Data Format",1981,224
+804,"Data Format",1982,198
+804,"Data Format",1983,324
+804,"Data Format",1984,307
+804,"Data Format",1985,310
+804,"Data Format",1986,521
+804,"Data Format",1987,440
+804,"Data Format",1988,451
+804,"Data Format",1989,635
+804,"Data Format",1990,507
+804,"Data Format",1991,618
+804,"Data Format",1992,796
+804,"Data Format",1993,831
+804,"Data Format",1994,869
+804,"Data Format",1995,845
+804,"Data Format",1996,1046
+804,"Data Format",1997,1083
+804,"Data Format",1998,1253
+804,"Data Format",1999,1511
+804,"Data Format",2000,1503
+804,"Data Format",2001,1828
+804,"Data Format",2002,1880
+804,"Data Format",2003,2241
+804,"Data Format",2004,3276
+804,"Data Format",2005,3651
+804,"Data Format",2006,4400
+804,"Data Format",2007,4083
+804,"Data Format",2008,4365
+804,"Data Format",2009,4378
+804,"Data Format",2010,4553
+804,"Data Format",2011,4129
+804,"Data Format",2012,4560
+804,"Data Format",2013,4578
+804,"Data Format",2014,4933
+804,"Data Format",2015,4508
+804,"Data Format",2016,4952
+804,"Data Format",2017,4453
+804,"Data Format",2018,4790
+804,"Data Format",2019,2790
+805,"Distributed Computing",1981,168
+805,"Distributed Computing",1982,303
+805,"Distributed Computing",1983,322
+805,"Distributed Computing",1984,310
+805,"Distributed Computing",1985,348
+805,"Distributed Computing",1986,532
+805,"Distributed Computing",1987,593
+805,"Distributed Computing",1988,628
+805,"Distributed Computing",1989,867
+805,"Distributed Computing",1990,1076
+805,"Distributed Computing",1991,1150
+805,"Distributed Computing",1992,1160
+805,"Distributed Computing",1993,1380
+805,"Distributed Computing",1994,1473
+805,"Distributed Computing",1995,1650
+805,"Distributed Computing",1996,1635
+805,"Distributed Computing",1997,2201
+805,"Distributed Computing",1998,1961
+805,"Distributed Computing",1999,2538
+805,"Distributed Computing",2000,2482
+805,"Distributed Computing",2001,2817
+805,"Distributed Computing",2002,2944
+805,"Distributed Computing",2003,4809
+805,"Distributed Computing",2004,5194
+805,"Distributed Computing",2005,6784
+805,"Distributed Computing",2006,7519
+805,"Distributed Computing",2007,7724
+805,"Distributed Computing",2008,7362
+805,"Distributed Computing",2009,6845
+805,"Distributed Computing",2010,7065
+805,"Distributed Computing",2011,7228
+805,"Distributed Computing",2012,7883
+805,"Distributed Computing",2013,8636
+805,"Distributed Computing",2014,8157
+805,"Distributed Computing",2015,9436
+805,"Distributed Computing",2016,8726
+805,"Distributed Computing",2017,10023
+805,"Distributed Computing",2018,9483
+805,"Distributed Computing",2019,5406
+806,"Information Systems",1974,93
+806,"Information Systems",1975,91
+806,"Information Systems",1977,127
+806,"Information Systems",1978,111
+806,"Information Systems",1979,147
+806,"Information Systems",1980,171
+806,"Information Systems",1981,206
+806,"Information Systems",1982,179
+806,"Information Systems",1983,254
+806,"Information Systems",1984,245
+806,"Information Systems",1985,275
+806,"Information Systems",1986,336
+806,"Information Systems",1987,327
+806,"Information Systems",1988,459
+806,"Information Systems",1989,796
+806,"Information Systems",1990,791
+806,"Information Systems",1991,715
+806,"Information Systems",1992,878
+806,"Information Systems",1993,1332
+806,"Information Systems",1994,1577
+806,"Information Systems",1995,2132
+806,"Information Systems",1996,1724
+806,"Information Systems",1997,2883
+806,"Information Systems",1998,3971
+806,"Information Systems",1999,3614
+806,"Information Systems",2000,4261
+806,"Information Systems",2001,5540
+806,"Information Systems",2002,4678
+806,"Information Systems",2003,7450
+806,"Information Systems",2004,9038
+806,"Information Systems",2005,11945
+806,"Information Systems",2006,11524
+806,"Information Systems",2007,12097
+806,"Information Systems",2008,11567
+806,"Information Systems",2009,12959
+806,"Information Systems",2010,12096
+806,"Information Systems",2011,12747
+806,"Information Systems",2012,13201
+806,"Information Systems",2013,14549
+806,"Information Systems",2014,13497
+806,"Information Systems",2015,13848
+806,"Information Systems",2016,14367
+806,"Information Systems",2017,14851
+806,"Information Systems",2018,13950
+806,"Information Systems",2019,9097
+899,"Other Information and Computing Sciences",1972,52
+899,"Other Information and Computing Sciences",1975,60
+899,"Other Information and Computing Sciences",1976,86
+899,"Other Information and Computing Sciences",1977,84
+899,"Other Information and Computing Sciences",1978,90
+899,"Other Information and Computing Sciences",1979,94
+899,"Other Information and Computing Sciences",1980,116
+899,"Other Information and Computing Sciences",1981,155
+899,"Other Information and Computing Sciences",1982,110
+899,"Other Information and Computing Sciences",1983,137
+899,"Other Information and Computing Sciences",1984,138
+899,"Other Information and Computing Sciences",1985,93
+899,"Other Information and Computing Sciences",1986,204
+899,"Other Information and Computing Sciences",1987,291
+899,"Other Information and Computing Sciences",1988,304
+899,"Other Information and Computing Sciences",1989,326
+899,"Other Information and Computing Sciences",1990,402
+899,"Other Information and Computing Sciences",1991,409
+899,"Other Information and Computing Sciences",1992,403
+899,"Other Information and Computing Sciences",1993,452
+899,"Other Information and Computing Sciences",1994,588
+899,"Other Information and Computing Sciences",1995,456
+899,"Other Information and Computing Sciences",1996,592
+899,"Other Information and Computing Sciences",1997,626
+899,"Other Information and Computing Sciences",1998,894
+899,"Other Information and Computing Sciences",1999,746
+899,"Other Information and Computing Sciences",2000,769
+899,"Other Information and Computing Sciences",2001,929
+899,"Other Information and Computing Sciences",2002,1738
+899,"Other Information and Computing Sciences",2003,971
+899,"Other Information and Computing Sciences",2004,1267
+899,"Other Information and Computing Sciences",2005,1330
+899,"Other Information and Computing Sciences",2006,1448
+899,"Other Information and Computing Sciences",2007,1332
+899,"Other Information and Computing Sciences",2008,1422
+899,"Other Information and Computing Sciences",2009,1298
+899,"Other Information and Computing Sciences",2010,1405
+899,"Other Information and Computing Sciences",2011,1217
+899,"Other Information and Computing Sciences",2012,1679
+899,"Other Information and Computing Sciences",2013,1249
+899,"Other Information and Computing Sciences",2014,1389
+899,"Other Information and Computing Sciences",2015,1524
+899,"Other Information and Computing Sciences",2016,1503
+899,"Other Information and Computing Sciences",2017,1627
+899,"Other Information and Computing Sciences",2018,2066
+899,"Other Information and Computing Sciences",2019,1568
+8,"Information and Computing Sciences",1966,37
+8,"Information and Computing Sciences",1967,28
+8,"Information and Computing Sciences",1968,34
+8,"Information and Computing Sciences",1969,33
+8,"Information and Computing Sciences",1970,74
+8,"Information and Computing Sciences",1971,76
+8,"Information and Computing Sciences",1972,75
+8,"Information and Computing Sciences",1973,40
+8,"Information and Computing Sciences",1974,62
+8,"Information and Computing Sciences",1975,62
+8,"Information and Computing Sciences",1976,59
+8,"Information and Computing Sciences",1977,60
+8,"Information and Computing Sciences",1978,54
+8,"Information and Computing Sciences",1979,78
+8,"Information and Computing Sciences",1982,103
+8,"Information and Computing Sciences",2020,28
+802,"Computation Theory and Mathematics",1952,3
+802,"Computation Theory and Mathematics",1953,26
+802,"Computation Theory and Mathematics",1954,49
+802,"Computation Theory and Mathematics",1955,53
+803,"Computer Software",1957,44
+803,"Computer Software",1958,36
+803,"Computer Software",1959,42
+803,"Computer Software",1960,48
+803,"Computer Software",1961,25
+803,"Computer Software",1962,56
+803,"Computer Software",1963,63
+803,"Computer Software",1964,84
+803,"Computer Software",1965,66
+803,"Computer Software",1966,16
+803,"Computer Software",1967,17
+803,"Computer Software",1968,28
+803,"Computer Software",1970,14
+804,"Data Format",1969,23
+804,"Data Format",1973,19
+805,"Distributed Computing",1972,20
+805,"Distributed Computing",1973,20
+805,"Distributed Computing",1974,19
+805,"Distributed Computing",1975,22
+805,"Distributed Computing",1976,34
+805,"Distributed Computing",1977,34
+805,"Distributed Computing",1978,84
+805,"Distributed Computing",1979,90
+805,"Distributed Computing",1980,74
+807,"Library and Information Studies",1978,31
+807,"Library and Information Studies",1979,42
+807,"Library and Information Studies",1980,71
+807,"Library and Information Studies",1981,58
+807,"Library and Information Studies",1982,52
+807,"Library and Information Studies",1983,54
+807,"Library and Information Studies",1984,60
+807,"Library and Information Studies",1985,77
+807,"Library and Information Studies",1986,65
+807,"Library and Information Studies",1987,90
+807,"Library and Information Studies",1988,83
+807,"Library and Information Studies",1989,96
+807,"Library and Information Studies",1990,90
+807,"Library and Information Studies",1991,105
+807,"Library and Information Studies",1992,166
+807,"Library and Information Studies",1993,137
+807,"Library and Information Studies",1994,200
+807,"Library and Information Studies",1995,252
+807,"Library and Information Studies",1996,386
+807,"Library and Information Studies",1997,500
+807,"Library and Information Studies",1998,590
+807,"Library and Information Studies",1999,638
+807,"Library and Information Studies",2000,656
+807,"Library and Information Studies",2001,711
+807,"Library and Information Studies",2002,781
+807,"Library and Information Studies",2003,839
+807,"Library and Information Studies",2004,872
+807,"Library and Information Studies",2005,1042
+807,"Library and Information Studies",2006,1042
+807,"Library and Information Studies",2007,1016
+807,"Library and Information Studies",2008,987
+807,"Library and Information Studies",2009,1076
+807,"Library and Information Studies",2010,1016
+807,"Library and Information Studies",2011,1002
+807,"Library and Information Studies",2012,1067
+807,"Library and Information Studies",2013,1041
+807,"Library and Information Studies",2014,1179
+807,"Library and Information Studies",2015,1237
+807,"Library and Information Studies",2016,1190
+807,"Library and Information Studies",2017,1226
+807,"Library and Information Studies",2018,1239
+807,"Library and Information Studies",2019,771
+899,"Other Information and Computing Sciences",1968,12
+899,"Other Information and Computing Sciences",1969,12
+899,"Other Information and Computing Sciences",1970,41
+899,"Other Information and Computing Sciences",1971,26
+899,"Other Information and Computing Sciences",1973,33
+899,"Other Information and Computing Sciences",1974,17
+801,"Artificial Intelligence and Image Processing",1965,25
+801,"Artificial Intelligence and Image Processing",1966,114
+801,"Artificial Intelligence and Image Processing",1967,223
+801,"Artificial Intelligence and Image Processing",1968,222
+801,"Artificial Intelligence and Image Processing",1969,348
+802,"Computation Theory and Mathematics",1960,10
+802,"Computation Theory and Mathematics",1961,27
+802,"Computation Theory and Mathematics",1962,17
+802,"Computation Theory and Mathematics",1963,14
+802,"Computation Theory and Mathematics",1964,26
+802,"Computation Theory and Mathematics",1965,33
+803,"Computer Software",2020,3
+805,"Distributed Computing",2020,1
+806,"Information Systems",1964,18
+806,"Information Systems",1965,20
+806,"Information Systems",1966,17
+806,"Information Systems",1967,25
+806,"Information Systems",1968,29
+806,"Information Systems",1969,31
+806,"Information Systems",1970,37
+806,"Information Systems",1971,61
+806,"Information Systems",1972,50
+806,"Information Systems",1973,55
+806,"Information Systems",1976,65
+806,"Information Systems",2020,2
+902,"Automotive Engineering",1994,391
+902,"Automotive Engineering",2001,578
+902,"Automotive Engineering",2002,435
+902,"Automotive Engineering",2004,157
+902,"Automotive Engineering",2006,1229
+902,"Automotive Engineering",2007,1093
+902,"Automotive Engineering",2008,1072
+902,"Automotive Engineering",2009,1054
+902,"Automotive Engineering",2010,1112
+902,"Automotive Engineering",2011,1171
+902,"Automotive Engineering",2012,1002
+902,"Automotive Engineering",2013,872
+902,"Automotive Engineering",2014,843
+902,"Automotive Engineering",2015,991
+902,"Automotive Engineering",2016,932
+902,"Automotive Engineering",2017,1063
+902,"Automotive Engineering",2018,913
+902,"Automotive Engineering",2019,353
+909,"Geomatic Engineering",2004,19
+909,"Geomatic Engineering",2005,27
+909,"Geomatic Engineering",2006,25
+909,"Geomatic Engineering",2007,22
+909,"Geomatic Engineering",2008,16
+909,"Geomatic Engineering",2009,14
+909,"Geomatic Engineering",2011,19
+909,"Geomatic Engineering",2012,18
+909,"Geomatic Engineering",2013,17
+909,"Geomatic Engineering",2014,13
+909,"Geomatic Engineering",2015,13
+909,"Geomatic Engineering",2017,12
+909,"Geomatic Engineering",2018,16
+909,"Geomatic Engineering",2019,15
+910,"Manufacturing Engineering",2008,18
+910,"Manufacturing Engineering",2009,96
+910,"Manufacturing Engineering",2010,65
+910,"Manufacturing Engineering",2011,66
+910,"Manufacturing Engineering",2013,39
+910,"Manufacturing Engineering",2017,94
+910,"Manufacturing Engineering",2018,59
+913,"Mechanical Engineering",1989,90
+913,"Mechanical Engineering",1990,140
+913,"Mechanical Engineering",1991,256
+913,"Mechanical Engineering",1992,290
+913,"Mechanical Engineering",1993,313
+913,"Mechanical Engineering",1994,338
+913,"Mechanical Engineering",1995,266
+913,"Mechanical Engineering",1996,239
+913,"Mechanical Engineering",1997,291
+913,"Mechanical Engineering",1998,319
+913,"Mechanical Engineering",1999,312
+913,"Mechanical Engineering",2000,379
+913,"Mechanical Engineering",2001,380
+913,"Mechanical Engineering",2002,500
+913,"Mechanical Engineering",2003,621
+913,"Mechanical Engineering",2004,661
+913,"Mechanical Engineering",2005,664
+913,"Mechanical Engineering",2006,1007
+913,"Mechanical Engineering",2007,689
+913,"Mechanical Engineering",2008,688
+913,"Mechanical Engineering",2009,950
+913,"Mechanical Engineering",2010,994
+913,"Mechanical Engineering",2011,788
+913,"Mechanical Engineering",2012,855
+913,"Mechanical Engineering",2013,901
+913,"Mechanical Engineering",2014,750
+913,"Mechanical Engineering",2015,992
+913,"Mechanical Engineering",2016,831
+913,"Mechanical Engineering",2017,879
+913,"Mechanical Engineering",2018,1087
+999,"Other Engineering",2010,1393
+1005,"Communications Technologies",1981,76
+1005,"Communications Technologies",1982,106
+1005,"Communications Technologies",1983,114
+1005,"Communications Technologies",1984,131
+1005,"Communications Technologies",1985,137
+1005,"Communications Technologies",1986,143
+1005,"Communications Technologies",1988,136
+1005,"Communications Technologies",1989,121
+1005,"Communications Technologies",1990,140
+1005,"Communications Technologies",1991,221
+1005,"Communications Technologies",1992,248
+1005,"Communications Technologies",1993,299
+1005,"Communications Technologies",1994,285
+1005,"Communications Technologies",1995,461
+1005,"Communications Technologies",1996,590
+1005,"Communications Technologies",1997,548
+1005,"Communications Technologies",1998,480
+1005,"Communications Technologies",1999,581
+1005,"Communications Technologies",2000,484
+1005,"Communications Technologies",2001,549
+1005,"Communications Technologies",2002,732
+1005,"Communications Technologies",2003,998
+1005,"Communications Technologies",2004,997
+1005,"Communications Technologies",2005,1194
+1005,"Communications Technologies",2006,1149
+1005,"Communications Technologies",2007,2179
+1005,"Communications Technologies",2008,1895
+1005,"Communications Technologies",2009,2465
+1005,"Communications Technologies",2010,2440
+1005,"Communications Technologies",2011,2999
+1005,"Communications Technologies",2012,2944
+1005,"Communications Technologies",2013,2853
+1005,"Communications Technologies",2014,2410
+1005,"Communications Technologies",2015,2691
+1005,"Communications Technologies",2016,2565
+1005,"Communications Technologies",2017,2359
+1005,"Communications Technologies",2018,3003
+1005,"Communications Technologies",2019,610
+1006,"Computer Hardware",1976,33
+1006,"Computer Hardware",1980,23
+1006,"Computer Hardware",1981,46
+1006,"Computer Hardware",1982,47
+1006,"Computer Hardware",1983,27
+1006,"Computer Hardware",1984,339
+1006,"Computer Hardware",1985,45
+1006,"Computer Hardware",1986,436
+1006,"Computer Hardware",1987,60
+1006,"Computer Hardware",1988,143
+1006,"Computer Hardware",1989,149
+1006,"Computer Hardware",1990,133
+1006,"Computer Hardware",1991,128
+1006,"Computer Hardware",1992,220
+1006,"Computer Hardware",1993,333
+1006,"Computer Hardware",1994,306
+1006,"Computer Hardware",1995,425
+1006,"Computer Hardware",1996,914
+1006,"Computer Hardware",1997,789
+1006,"Computer Hardware",1998,1151
+1006,"Computer Hardware",1999,905
+1006,"Computer Hardware",2000,2266
+1006,"Computer Hardware",2001,1262
+1006,"Computer Hardware",2002,2567
+1006,"Computer Hardware",2003,2309
+1006,"Computer Hardware",2004,3539
+1006,"Computer Hardware",2005,3563
+1006,"Computer Hardware",2006,4116
+1006,"Computer Hardware",2007,4822
+1006,"Computer Hardware",2008,4428
+1006,"Computer Hardware",2009,4123
+1006,"Computer Hardware",2010,3748
+1006,"Computer Hardware",2011,3907
+1006,"Computer Hardware",2012,4651
+1006,"Computer Hardware",2013,4941
+1006,"Computer Hardware",2014,4309
+1006,"Computer Hardware",2015,4728
+1006,"Computer Hardware",2016,4175
+1006,"Computer Hardware",2017,4640
+1006,"Computer Hardware",2018,4271
+1006,"Computer Hardware",2019,1653
+1203,"Design Practice and Management",1998,77
+1203,"Design Practice and Management",2001,159
+1203,"Design Practice and Management",2003,208
+1203,"Design Practice and Management",2004,365
+1203,"Design Practice and Management",2005,290
+1203,"Design Practice and Management",2006,335
+1203,"Design Practice and Management",2007,280
+1203,"Design Practice and Management",2008,367
+1203,"Design Practice and Management",2009,218
+1203,"Design Practice and Management",2010,217
+1203,"Design Practice and Management",2011,202
+1203,"Design Practice and Management",2012,276
+1203,"Design Practice and Management",2013,226
+1203,"Design Practice and Management",2014,233
+1203,"Design Practice and Management",2015,149
+1203,"Design Practice and Management",2016,148
+1203,"Design Practice and Management",2017,158
+1203,"Design Practice and Management",2018,122
+1203,"Design Practice and Management",2019,115
