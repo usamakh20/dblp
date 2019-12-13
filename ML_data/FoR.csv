@@ -1,0 +1,659 @@
+id,year,label
+8,1980,[50-100)
+8,1981,[100-150)
+8,1983,[100-150)
+8,1984,[100-150)
+8,1985,[150-200)
+8,1986,[150-200)
+8,1987,[150-200)
+8,1988,[200-250)
+8,1989,[200-250)
+8,1990,greater than 250
+8,1991,greater than 250
+8,1992,greater than 250
+8,1993,greater than 250
+8,1994,greater than 250
+8,1995,greater than 250
+8,1996,greater than 250
+8,1997,greater than 250
+8,1998,greater than 250
+8,1999,greater than 250
+8,2000,greater than 250
+8,2001,greater than 250
+8,2002,greater than 250
+8,2003,greater than 250
+8,2004,greater than 250
+8,2005,greater than 250
+8,2006,greater than 250
+8,2007,greater than 250
+8,2008,greater than 250
+8,2009,greater than 250
+8,2010,greater than 250
+8,2011,greater than 250
+8,2012,greater than 250
+8,2013,greater than 250
+8,2014,greater than 250
+8,2015,greater than 250
+8,2016,greater than 250
+8,2017,greater than 250
+8,2018,greater than 250
+8,2019,greater than 250
+801,1970,[150-200)
+801,1971,greater than 250
+801,1972,greater than 250
+801,1973,greater than 250
+801,1974,greater than 250
+801,1975,greater than 250
+801,1976,greater than 250
+801,1977,greater than 250
+801,1978,greater than 250
+801,1979,greater than 250
+801,1980,greater than 250
+801,1981,greater than 250
+801,1982,greater than 250
+801,1983,greater than 250
+801,1984,greater than 250
+801,1985,greater than 250
+801,1986,greater than 250
+801,1987,greater than 250
+801,1988,greater than 250
+801,1989,greater than 250
+801,1990,greater than 250
+801,1991,greater than 250
+801,1992,greater than 250
+801,1993,greater than 250
+801,1994,greater than 250
+801,1995,greater than 250
+801,1996,greater than 250
+801,1997,greater than 250
+801,1998,greater than 250
+801,1999,greater than 250
+801,2000,greater than 250
+801,2001,greater than 250
+801,2002,greater than 250
+801,2003,greater than 250
+801,2004,greater than 250
+801,2005,greater than 250
+801,2006,greater than 250
+801,2007,greater than 250
+801,2008,greater than 250
+801,2009,greater than 250
+801,2010,greater than 250
+801,2011,greater than 250
+801,2012,greater than 250
+801,2013,greater than 250
+801,2014,greater than 250
+801,2015,greater than 250
+801,2016,greater than 250
+801,2017,greater than 250
+801,2018,greater than 250
+801,2019,greater than 250
+801,2020,[0-50)
+802,1966,[100-150)
+802,1967,[100-150)
+802,1968,[150-200)
+802,1969,[100-150)
+802,1970,[100-150)
+802,1971,[200-250)
+802,1972,greater than 250
+802,1973,greater than 250
+802,1974,greater than 250
+802,1975,greater than 250
+802,1976,greater than 250
+802,1977,greater than 250
+802,1978,greater than 250
+802,1979,greater than 250
+802,1980,greater than 250
+802,1981,greater than 250
+802,1982,greater than 250
+802,1983,greater than 250
+802,1984,greater than 250
+802,1985,greater than 250
+802,1986,greater than 250
+802,1987,greater than 250
+802,1988,greater than 250
+802,1989,greater than 250
+802,1990,greater than 250
+802,1991,greater than 250
+802,1992,greater than 250
+802,1993,greater than 250
+802,1994,greater than 250
+802,1995,greater than 250
+802,1996,greater than 250
+802,1997,greater than 250
+802,1998,greater than 250
+802,1999,greater than 250
+802,2000,greater than 250
+802,2001,greater than 250
+802,2002,greater than 250
+802,2003,greater than 250
+802,2004,greater than 250
+802,2005,greater than 250
+802,2006,greater than 250
+802,2007,greater than 250
+802,2008,greater than 250
+802,2009,greater than 250
+802,2010,greater than 250
+802,2011,greater than 250
+802,2012,greater than 250
+802,2013,greater than 250
+802,2014,greater than 250
+802,2015,greater than 250
+802,2016,greater than 250
+802,2017,greater than 250
+802,2018,greater than 250
+802,2019,greater than 250
+803,1969,[0-50)
+803,1971,[0-50)
+803,1972,[50-100)
+803,1973,[100-150)
+803,1974,[100-150)
+803,1975,[150-200)
+803,1976,greater than 250
+803,1977,[150-200)
+803,1978,greater than 250
+803,1979,greater than 250
+803,1980,greater than 250
+803,1981,greater than 250
+803,1982,[200-250)
+803,1983,greater than 250
+803,1984,greater than 250
+803,1985,greater than 250
+803,1986,greater than 250
+803,1987,greater than 250
+803,1988,greater than 250
+803,1989,greater than 250
+803,1990,greater than 250
+803,1991,greater than 250
+803,1992,greater than 250
+803,1993,greater than 250
+803,1994,greater than 250
+803,1995,greater than 250
+803,1996,greater than 250
+803,1997,greater than 250
+803,1998,greater than 250
+803,1999,greater than 250
+803,2000,greater than 250
+803,2001,greater than 250
+803,2002,greater than 250
+803,2003,greater than 250
+803,2004,greater than 250
+803,2005,greater than 250
+803,2006,greater than 250
+803,2007,greater than 250
+803,2008,greater than 250
+803,2009,greater than 250
+803,2010,greater than 250
+803,2011,greater than 250
+803,2012,greater than 250
+803,2013,greater than 250
+803,2014,greater than 250
+803,2015,greater than 250
+803,2016,greater than 250
+803,2017,greater than 250
+803,2018,greater than 250
+803,2019,greater than 250
+804,1970,[0-50)
+804,1971,[0-50)
+804,1972,[0-50)
+804,1974,[0-50)
+804,1975,[100-150)
+804,1976,[50-100)
+804,1977,[100-150)
+804,1978,[150-200)
+804,1979,[100-150)
+804,1980,[150-200)
+804,1981,[200-250)
+804,1982,[150-200)
+804,1983,greater than 250
+804,1984,greater than 250
+804,1985,greater than 250
+804,1986,greater than 250
+804,1987,greater than 250
+804,1988,greater than 250
+804,1989,greater than 250
+804,1990,greater than 250
+804,1991,greater than 250
+804,1992,greater than 250
+804,1993,greater than 250
+804,1994,greater than 250
+804,1995,greater than 250
+804,1996,greater than 250
+804,1997,greater than 250
+804,1998,greater than 250
+804,1999,greater than 250
+804,2000,greater than 250
+804,2001,greater than 250
+804,2002,greater than 250
+804,2003,greater than 250
+804,2004,greater than 250
+804,2005,greater than 250
+804,2006,greater than 250
+804,2007,greater than 250
+804,2008,greater than 250
+804,2009,greater than 250
+804,2010,greater than 250
+804,2011,greater than 250
+804,2012,greater than 250
+804,2013,greater than 250
+804,2014,greater than 250
+804,2015,greater than 250
+804,2016,greater than 250
+804,2017,greater than 250
+804,2018,greater than 250
+804,2019,greater than 250
+805,1981,[150-200)
+805,1982,greater than 250
+805,1983,greater than 250
+805,1984,greater than 250
+805,1985,greater than 250
+805,1986,greater than 250
+805,1987,greater than 250
+805,1988,greater than 250
+805,1989,greater than 250
+805,1990,greater than 250
+805,1991,greater than 250
+805,1992,greater than 250
+805,1993,greater than 250
+805,1994,greater than 250
+805,1995,greater than 250
+805,1996,greater than 250
+805,1997,greater than 250
+805,1998,greater than 250
+805,1999,greater than 250
+805,2000,greater than 250
+805,2001,greater than 250
+805,2002,greater than 250
+805,2003,greater than 250
+805,2004,greater than 250
+805,2005,greater than 250
+805,2006,greater than 250
+805,2007,greater than 250
+805,2008,greater than 250
+805,2009,greater than 250
+805,2010,greater than 250
+805,2011,greater than 250
+805,2012,greater than 250
+805,2013,greater than 250
+805,2014,greater than 250
+805,2015,greater than 250
+805,2016,greater than 250
+805,2017,greater than 250
+805,2018,greater than 250
+805,2019,greater than 250
+806,1974,[50-100)
+806,1975,[50-100)
+806,1977,[100-150)
+806,1978,[100-150)
+806,1979,[100-150)
+806,1980,[150-200)
+806,1981,[200-250)
+806,1982,[150-200)
+806,1983,greater than 250
+806,1984,[200-250)
+806,1985,greater than 250
+806,1986,greater than 250
+806,1987,greater than 250
+806,1988,greater than 250
+806,1989,greater than 250
+806,1990,greater than 250
+806,1991,greater than 250
+806,1992,greater than 250
+806,1993,greater than 250
+806,1994,greater than 250
+806,1995,greater than 250
+806,1996,greater than 250
+806,1997,greater than 250
+806,1998,greater than 250
+806,1999,greater than 250
+806,2000,greater than 250
+806,2001,greater than 250
+806,2002,greater than 250
+806,2003,greater than 250
+806,2004,greater than 250
+806,2005,greater than 250
+806,2006,greater than 250
+806,2007,greater than 250
+806,2008,greater than 250
+806,2009,greater than 250
+806,2010,greater than 250
+806,2011,greater than 250
+806,2012,greater than 250
+806,2013,greater than 250
+806,2014,greater than 250
+806,2015,greater than 250
+806,2016,greater than 250
+806,2017,greater than 250
+806,2018,greater than 250
+806,2019,greater than 250
+899,1972,[50-100)
+899,1975,[50-100)
+899,1976,[50-100)
+899,1977,[50-100)
+899,1978,[50-100)
+899,1979,[50-100)
+899,1980,[100-150)
+899,1981,[150-200)
+899,1982,[100-150)
+899,1983,[100-150)
+899,1984,[100-150)
+899,1985,[50-100)
+899,1986,[200-250)
+899,1987,greater than 250
+899,1988,greater than 250
+899,1989,greater than 250
+899,1990,greater than 250
+899,1991,greater than 250
+899,1992,greater than 250
+899,1993,greater than 250
+899,1994,greater than 250
+899,1995,greater than 250
+899,1996,greater than 250
+899,1997,greater than 250
+899,1998,greater than 250
+899,1999,greater than 250
+899,2000,greater than 250
+899,2001,greater than 250
+899,2002,greater than 250
+899,2003,greater than 250
+899,2004,greater than 250
+899,2005,greater than 250
+899,2006,greater than 250
+899,2007,greater than 250
+899,2008,greater than 250
+899,2009,greater than 250
+899,2010,greater than 250
+899,2011,greater than 250
+899,2012,greater than 250
+899,2013,greater than 250
+899,2014,greater than 250
+899,2015,greater than 250
+899,2016,greater than 250
+899,2017,greater than 250
+899,2018,greater than 250
+899,2019,greater than 250
+8,1966,[0-50)
+8,1967,[0-50)
+8,1968,[0-50)
+8,1969,[0-50)
+8,1970,[50-100)
+8,1971,[50-100)
+8,1972,[50-100)
+8,1973,[0-50)
+8,1974,[50-100)
+8,1975,[50-100)
+8,1976,[50-100)
+8,1977,[50-100)
+8,1978,[50-100)
+8,1979,[50-100)
+8,1982,[100-150)
+8,2020,[0-50)
+802,1952,[0-50)
+802,1953,[0-50)
+802,1954,[0-50)
+802,1955,[50-100)
+803,1957,[0-50)
+803,1958,[0-50)
+803,1959,[0-50)
+803,1960,[0-50)
+803,1961,[0-50)
+803,1962,[50-100)
+803,1963,[50-100)
+803,1964,[50-100)
+803,1965,[50-100)
+803,1966,[0-50)
+803,1967,[0-50)
+803,1968,[0-50)
+803,1970,[0-50)
+804,1969,[0-50)
+804,1973,[0-50)
+805,1972,[0-50)
+805,1973,[0-50)
+805,1974,[0-50)
+805,1975,[0-50)
+805,1976,[0-50)
+805,1977,[0-50)
+805,1978,[50-100)
+805,1979,[50-100)
+805,1980,[50-100)
+807,1978,[0-50)
+807,1979,[0-50)
+807,1980,[50-100)
+807,1981,[50-100)
+807,1982,[50-100)
+807,1983,[50-100)
+807,1984,[50-100)
+807,1985,[50-100)
+807,1986,[50-100)
+807,1987,[50-100)
+807,1988,[50-100)
+807,1989,[50-100)
+807,1990,[50-100)
+807,1991,[100-150)
+807,1992,[150-200)
+807,1993,[100-150)
+807,1994,[200-250)
+807,1995,greater than 250
+807,1996,greater than 250
+807,1997,greater than 250
+807,1998,greater than 250
+807,1999,greater than 250
+807,2000,greater than 250
+807,2001,greater than 250
+807,2002,greater than 250
+807,2003,greater than 250
+807,2004,greater than 250
+807,2005,greater than 250
+807,2006,greater than 250
+807,2007,greater than 250
+807,2008,greater than 250
+807,2009,greater than 250
+807,2010,greater than 250
+807,2011,greater than 250
+807,2012,greater than 250
+807,2013,greater than 250
+807,2014,greater than 250
+807,2015,greater than 250
+807,2016,greater than 250
+807,2017,greater than 250
+807,2018,greater than 250
+807,2019,greater than 250
+899,1968,[0-50)
+899,1969,[0-50)
+899,1970,[0-50)
+899,1971,[0-50)
+899,1973,[0-50)
+899,1974,[0-50)
+801,1965,[0-50)
+801,1966,[100-150)
+801,1967,[200-250)
+801,1968,[200-250)
+801,1969,greater than 250
+802,1960,[0-50)
+802,1961,[0-50)
+802,1962,[0-50)
+802,1963,[0-50)
+802,1964,[0-50)
+802,1965,[0-50)
+803,2020,[0-50)
+805,2020,[0-50)
+806,1964,[0-50)
+806,1965,[0-50)
+806,1966,[0-50)
+806,1967,[0-50)
+806,1968,[0-50)
+806,1969,[0-50)
+806,1970,[0-50)
+806,1971,[50-100)
+806,1972,[50-100)
+806,1973,[50-100)
+806,1976,[50-100)
+806,2020,[0-50)
+902,1994,greater than 250
+902,2001,greater than 250
+902,2002,greater than 250
+902,2004,[150-200)
+902,2006,greater than 250
+902,2007,greater than 250
+902,2008,greater than 250
+902,2009,greater than 250
+902,2010,greater than 250
+902,2011,greater than 250
+902,2012,greater than 250
+902,2013,greater than 250
+902,2014,greater than 250
+902,2015,greater than 250
+902,2016,greater than 250
+902,2017,greater than 250
+902,2018,greater than 250
+902,2019,greater than 250
+909,2004,[0-50)
+909,2005,[0-50)
+909,2006,[0-50)
+909,2007,[0-50)
+909,2008,[0-50)
+909,2009,[0-50)
+909,2011,[0-50)
+909,2012,[0-50)
+909,2013,[0-50)
+909,2014,[0-50)
+909,2015,[0-50)
+909,2017,[0-50)
+909,2018,[0-50)
+909,2019,[0-50)
+910,2008,[0-50)
+910,2009,[50-100)
+910,2010,[50-100)
+910,2011,[50-100)
+910,2013,[0-50)
+910,2017,[50-100)
+910,2018,[50-100)
+913,1989,[50-100)
+913,1990,[100-150)
+913,1991,greater than 250
+913,1992,greater than 250
+913,1993,greater than 250
+913,1994,greater than 250
+913,1995,greater than 250
+913,1996,[200-250)
+913,1997,greater than 250
+913,1998,greater than 250
+913,1999,greater than 250
+913,2000,greater than 250
+913,2001,greater than 250
+913,2002,greater than 250
+913,2003,greater than 250
+913,2004,greater than 250
+913,2005,greater than 250
+913,2006,greater than 250
+913,2007,greater than 250
+913,2008,greater than 250
+913,2009,greater than 250
+913,2010,greater than 250
+913,2011,greater than 250
+913,2012,greater than 250
+913,2013,greater than 250
+913,2014,greater than 250
+913,2015,greater than 250
+913,2016,greater than 250
+913,2017,greater than 250
+913,2018,greater than 250
+999,2010,greater than 250
+1005,1981,[50-100)
+1005,1982,[100-150)
+1005,1983,[100-150)
+1005,1984,[100-150)
+1005,1985,[100-150)
+1005,1986,[100-150)
+1005,1988,[100-150)
+1005,1989,[100-150)
+1005,1990,[100-150)
+1005,1991,[200-250)
+1005,1992,[200-250)
+1005,1993,greater than 250
+1005,1994,greater than 250
+1005,1995,greater than 250
+1005,1996,greater than 250
+1005,1997,greater than 250
+1005,1998,greater than 250
+1005,1999,greater than 250
+1005,2000,greater than 250
+1005,2001,greater than 250
+1005,2002,greater than 250
+1005,2003,greater than 250
+1005,2004,greater than 250
+1005,2005,greater than 250
+1005,2006,greater than 250
+1005,2007,greater than 250
+1005,2008,greater than 250
+1005,2009,greater than 250
+1005,2010,greater than 250
+1005,2011,greater than 250
+1005,2012,greater than 250
+1005,2013,greater than 250
+1005,2014,greater than 250
+1005,2015,greater than 250
+1005,2016,greater than 250
+1005,2017,greater than 250
+1005,2018,greater than 250
+1005,2019,greater than 250
+1006,1976,[0-50)
+1006,1980,[0-50)
+1006,1981,[0-50)
+1006,1982,[0-50)
+1006,1983,[0-50)
+1006,1984,greater than 250
+1006,1985,[0-50)
+1006,1986,greater than 250
+1006,1987,[50-100)
+1006,1988,[100-150)
+1006,1989,[100-150)
+1006,1990,[100-150)
+1006,1991,[100-150)
+1006,1992,[200-250)
+1006,1993,greater than 250
+1006,1994,greater than 250
+1006,1995,greater than 250
+1006,1996,greater than 250
+1006,1997,greater than 250
+1006,1998,greater than 250
+1006,1999,greater than 250
+1006,2000,greater than 250
+1006,2001,greater than 250
+1006,2002,greater than 250
+1006,2003,greater than 250
+1006,2004,greater than 250
+1006,2005,greater than 250
+1006,2006,greater than 250
+1006,2007,greater than 250
+1006,2008,greater than 250
+1006,2009,greater than 250
+1006,2010,greater than 250
+1006,2011,greater than 250
+1006,2012,greater than 250
+1006,2013,greater than 250
+1006,2014,greater than 250
+1006,2015,greater than 250
+1006,2016,greater than 250
+1006,2017,greater than 250
+1006,2018,greater than 250
+1006,2019,greater than 250
+1203,1998,[50-100)
+1203,2001,[150-200)
+1203,2003,[200-250)
+1203,2004,greater than 250
+1203,2005,greater than 250
+1203,2006,greater than 250
+1203,2007,greater than 250
+1203,2008,greater than 250
+1203,2009,[200-250)
+1203,2010,[200-250)
+1203,2011,[200-250)
+1203,2012,greater than 250
+1203,2013,[200-250)
+1203,2014,[200-250)
+1203,2015,[100-150)
+1203,2016,[100-150)
+1203,2017,[150-200)
+1203,2018,[100-150)
+1203,2019,[100-150)
